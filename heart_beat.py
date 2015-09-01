@@ -9,7 +9,7 @@ import errno
 
 
 # Define server list (ip or hostname)
-SERVERS = {'s0': 12275,'xbmc': 12275,'pi-dev': 22, 'fail-test':22, 'pidev':12275}
+SERVERS = {'host_one': 22,'host_two': 22,'webserver': 80, 'fail-test':22}
 
 
 class colors:
